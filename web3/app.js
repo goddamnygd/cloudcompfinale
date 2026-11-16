@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://my-fastapi-service-gi31.vercel.app/api/v1";
+const API_BASE_URL = "https://cloudcompfinale.vercel.app/";
 
 const API_KEY = "student-api-key-123";
 
