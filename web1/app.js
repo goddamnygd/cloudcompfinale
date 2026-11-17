@@ -2,7 +2,7 @@ const API_URL = "https://cloudcompfinale.vercel.app/api/v1";
 const API_KEY = "student-api-key-123";
 
 let currentPage = 0;
-const limit = 10;
+const limit = 12;
 let currentRole = "";
 let currentQuery = "";
 let debounceTimer = null;
